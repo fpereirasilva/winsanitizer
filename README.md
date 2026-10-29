@@ -40,7 +40,7 @@ O projeto foi desenhado sob 3 premissas fundamentais:
       │                 INTERFACES DE CONTROLE                       │
       │                                                              │
       │   • Terminal PowerShell / Prompt do Windows                  │
-      │   • Claude Opus 5.5 Code (/manutencao)                                │
+      │   • Skills de Terminal (/manutencao)                         │
       │   • GitHub Copilot no VS Code (@workspace)                   │
       │   • OpenAI Codex / ChatGPT Desktop                           │
       └──────────────────────────────┬───────────────────────────────┘
@@ -171,7 +171,7 @@ Todos os arquivos são movidos com segurança para pastas dedicadas (`Instalador
 
 | Assistente | Como Utilizar |
 | :--- | :--- |
-| **Claude Opus 5.5 Code** | Use as skills integradas `/manutencao` ou `/manutencaocomputador` |
+| **CLI / Terminal** | Use as skills integradas `/manutencao` ou `/manutencaocomputador` |
 | **GitHub Copilot** | Instrução global em `.github/copilot-instructions.md` (chame com `@workspace organize os arquivos`) |
 | **OpenAI Codex** | Executa o script nativo direto no terminal integrado |
 | **Ollama + Qwen** | Totalmente autônomo via API REST local na porta `:11434` |

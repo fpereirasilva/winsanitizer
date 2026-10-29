@@ -35,7 +35,7 @@ O agente consulta um modelo local (como Qwen 2.5 de 14B ou LLaMA 3.2 de 3B) roda
 • Em servidores de arquivos, preserva a herança de permissões NTFS de rede ao mover os arquivos.
 
 4️⃣ Compatibilidade Universal:
-Funciona direto no terminal PowerShell, como Skill no Claude Opus 5.5 Code (/manutencao), no GitHub Copilot (@workspace) e no OpenAI Codex.
+Funciona direto no terminal PowerShell, como Skill integrada (/manutencao), no GitHub Copilot (@workspace) e no OpenAI Codex.
 
 O projeto é 100% Open Source sob licença MIT! ⭐
 
