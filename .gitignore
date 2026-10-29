@@ -1,0 +1,25 @@
+# Logs e temporários
+*.log
+*.tmp
+*.bak
+_orig-*
+_test-*
+
+# PowerShell
+*.ps1xml
+*.clixml
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+
+# Chaves e certificados
+*.pem
+*.pfx
+*.key
+
+# Backups do sistema
+DumpStack.log*
+pagefile.sys
+swapfile.sys
